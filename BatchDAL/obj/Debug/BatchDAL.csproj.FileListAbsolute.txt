@@ -1,0 +1,12 @@
+C:\ng\dec5\BatchMultiTier\BatchDAL\bin\Debug\BatchDAL.dll.config
+C:\ng\dec5\BatchMultiTier\BatchDAL\bin\Debug\BatchDAL.dll
+C:\ng\dec5\BatchMultiTier\BatchDAL\bin\Debug\BatchDAL.pdb
+C:\ng\dec5\BatchMultiTier\BatchDAL\bin\Debug\EntityFramework.dll
+C:\ng\dec5\BatchMultiTier\BatchDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\ng\dec5\BatchMultiTier\BatchDAL\bin\Debug\EntityFramework.xml
+C:\ng\dec5\BatchMultiTier\BatchDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\ng\dec5\BatchMultiTier\BatchDAL\obj\Debug\BatchDAL.csprojAssemblyReference.cache
+C:\ng\dec5\BatchMultiTier\BatchDAL\obj\Debug\BatchDAL.csproj.CoreCompileInputs.cache
+C:\ng\dec5\BatchMultiTier\BatchDAL\obj\Debug\BatchDAL.csproj.CopyComplete
+C:\ng\dec5\BatchMultiTier\BatchDAL\obj\Debug\BatchDAL.dll
+C:\ng\dec5\BatchMultiTier\BatchDAL\obj\Debug\BatchDAL.pdb
